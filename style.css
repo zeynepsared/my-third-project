@@ -1,0 +1,120 @@
+.box1{
+    width:400px;
+    height:50px;
+    text-align:350px;
+}
+
+.box2{
+    background-color:rgb(255, 208, 1);
+width:150px;
+height: 30PX;
+text-align:350px;
+}
+
+.box3{
+font-size:20px;
+color: rgb(0, 0, 0);
+margin-left: 150px;
+text-align:350px;
+}
+
+.fa-fire-flame-curved{
+    font-size:60px;
+   color: rgb(255, 208, 1);
+   margin-right:900px;
+   margin-top:-100px;
+   }
+
+   .fa-truck{
+    font-size:60px;
+    color: rgb(255, 208, 1);
+    margin-right:900px;
+    margin-top:-100px;
+   }
+.fa-battery-full{
+    font-size:60px;
+    color: rgb(255, 208, 1);
+    margin-right:900px;
+    margin-top:-100px;
+}
+
+   .yazı1{
+    font-size:30px;
+    margin-right:350px;
+    text-align:400px;
+   }
+   .yazı2{
+    font-size:30px;
+    margin-right:550px;
+   }
+   .yazı3{
+    font-size:30px;
+    margin-right:450px;
+   }
+
+   .tablo1{
+    background-color:rgb(161, 161, 202);
+    width:380px;
+    height: 400PX;
+    margin-right:1000px;
+   }
+
+
+   .tablo2{
+    background-color:rgb(175, 124, 167);
+    width:380px;
+    height: 400px;
+    float: right;
+    position: relative;
+    right: 1000px;
+    bottom: 435px;
+   }
+
+   .tablo3{
+    background-color:rgb(183, 206, 103);
+    width:380px;
+    height: 400px;
+    float: right;
+    position: relative;
+    right: 100px;
+    bottom: 470px;
+   }
+
+   .kutu1{
+    background-color:rgb(248, 169, 66);
+    width:80px;
+    height: 30px;
+   }
+
+   
+ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+li {
+    float: left;
+}
+.başlık{
+    background-color:rgb(211, 207, 201);
+    width:350px;
+    height: 40px;
+}
+
+.navbar1{
+    font-size:30px;
+    background-color:bisque;
+}
+
+a {
+    text-decoration: none;
+    color:black;
+   }
+   .deneme{
+    width:350px;
+    height: 40px;
+   }
+   .yatay-menu{
+    float: left;
+    position: absolute;
+    left: 1800px;
+   }
